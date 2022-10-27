@@ -1,12 +1,5 @@
 # BookARoom
 
-## Group members 
-
-- Rattazzi, Giacomo
-- Do Vale Anes, Daniel 
-- Wang, Jingmin 
-- Farhat, Ahmed 
-
 ## Project Description 
 The “BookARoom” is a hotel reservation website where users can book a room. The website is owned by a single hotel. The hotel has different types of rooms, and each type has a specific number of beds and other services. Anyone can become a client and make a reservation, but for that he needs to make an account and log in.
 
